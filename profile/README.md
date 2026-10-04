@@ -2,7 +2,7 @@
 
 # ZapZap API
 
-**The unofficial WhatsApp API — anti-ban, fixed price per number, no Meta approval.**
+**The unofficial WhatsApp API, anti-ban, fixed price per number, no Meta approval.**
 
 Connect a WhatsApp number by QR code and send/receive messages straight from your code.
 No Business verification, no message templates, no per-message fees. Flat monthly price per active number.
@@ -17,15 +17,15 @@ No Business verification, no message templates, no per-message fees. Flat monthl
 
 - **No Meta approval, no templates.** Send any text, media or interactive message. Connect today, go live today.
 - **Reduced ban risk.** Native chip warm-up, anti-block logic and per-number families.
-- **Fixed price.** Prepaid, flat per active number — no per-conversation or per-message billing.
+- **Fixed price.** Prepaid, flat per active number, no per-conversation or per-message billing.
 - **Everything over HTTP.** 150+ REST endpoints, webhooks, groups, channels, polls, reactions, AI.
 
 ## Start here
 
 | Repo | What it is |
 |---|---|
-| [**zapzap-api-examples**](https://github.com/zapzapapi/zapzap-api-examples) | Ready-to-run examples in Node.js, Python and PHP — send text/media, receive webhooks, build an AI bot. |
-| [**n8n-nodes-zapzap**](https://github.com/zapzapapi/n8n-nodes-zapzap) | Official n8n community node — send WhatsApp messages and manage instances from n8n, plus a webhook trigger. |
+| [**zapzap-api-examples**](https://github.com/zapzapapi/zapzap-api-examples) | Ready-to-run examples in Node.js, Python and PHP, send text/media, receive webhooks, build an AI bot. |
+| [**n8n-nodes-zapzap**](https://github.com/zapzapapi/n8n-nodes-zapzap) | Official n8n community node, send WhatsApp messages and manage instances from n8n, plus a webhook trigger. |
 
 ## Integrate with your stack
 
